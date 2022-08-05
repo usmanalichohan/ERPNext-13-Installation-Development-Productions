@@ -1,4 +1,4 @@
-# ERPNext 13 Final
+# ERPNext 13 Final UBUNTU/SERVER 22
 ERPNext is the world's best free and open source ERP
 
 ## NOTES
