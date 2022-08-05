@@ -176,15 +176,15 @@ default-character-set = utf8mb4
 
 > bench get-app payments
 
-> make sure bench is runing in other terminal
+###### make sure bench is runing in other terminal
 
 > bench get-app erpnext --branch v13.36.2
 
-> make sure bench is runing in other terminal
+###### make sure bench is runing in other terminal
 
 > bench --site site1.local install-app erpnext
 
-> make sure bench is runing in other terminal
+###### make sure bench is runing in other terminal
 
 > bench use site1.local
 
